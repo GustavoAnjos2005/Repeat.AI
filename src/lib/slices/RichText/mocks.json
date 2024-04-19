@@ -1,0 +1,25 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"content": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Fugiat eiusmod pariatur ipsum incididunt adipisicing adipisicing consectetur tempor amet consectetur officia eu voluptate pariatur culpa. Do incididunt irure nisi sunt eiusmod nisi ut est nulla occaecat ut labore. Voluptate officia ea officia do minim irure quis cupidatat cillum commodo aliquip consequat."
+						}
+					}
+				]
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": []
+			}
+		]
+	}
+]
